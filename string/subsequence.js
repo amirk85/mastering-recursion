@@ -10,3 +10,5 @@ function subseq(up = "abc", p = "", ans = []) {
 
   return ans;
 }
+
+console.log(subseq())
